@@ -2,8 +2,8 @@ import React, { StrictMode } from "react";
 import { render } from "react-dom";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import { ThemeProvider } from "@material-ui/core/styles";
-import App from "./App";
-import theme from "./theme";
+import App from "./views/pages/App";
+import theme from "./style/theme";
 import reportWebVitals from "./reportWebVitals";
 
 render(
