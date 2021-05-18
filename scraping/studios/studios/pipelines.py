@@ -6,8 +6,22 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
+import json
 
 
 class StudiosPipeline:
     def process_item(self, item, spider):
+        return item
+
+class JsonWriterPipeline:
+    def open_spider(self, spider):
+        file_name = spider.name.rstrip("_spider")
+        self.file = open(f"outputs/{file_name}_items.jsonl", "w")
+
+    def close_spider(self, spider):
+        return self.file.close()
+
+    def process_item(self, item, spider):
+        line = json.dumps(dict(item), ensure_ascii=False) + "\n"
+        self.file.write(line)
         return item

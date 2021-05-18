@@ -10,8 +10,8 @@ See [official documentation](https://docs.scrapy.org/en/latest/topics/spiders.ht
 
 ## TO DO
 
-* スクレイピングの対象となるデータを決める．
+* スクレイピングの対象となるデータの検討(部屋数とかレンタル品とか、、、)
 
-* なるべく多くのリハーサルスタジオを探し，それぞれに対してcrawlerを定義し，スクレイピンングする．
+* なるべく多くのリハーサルスタジオを探し，それぞれに対してcrawlerを定義し，スクレイピンング
 
 * 構造化し，SQLに取り込む
