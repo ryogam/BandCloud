@@ -13,7 +13,7 @@ runner = CrawlerRunner(setting)
 @defer.inlineCallbacks
 def crawl():
     yield runner.crawl(noah_spider.NoahSpider)
-    yield runner.crawl(penta_spider.Pentaspider)
+    yield runner.crawl(penta_spider.PentaSpider)
     reactor.stop()
 
 crawl()

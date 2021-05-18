@@ -1,7 +1,7 @@
 import scrapy
 import items
 
-class Pentaspider(scrapy.Spider):
+class PentaSpider(scrapy.Spider):
     name = "penta_spider"
     allowed_domains = [
         "studiopenta.net",
