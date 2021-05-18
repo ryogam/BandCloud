@@ -16,7 +16,7 @@ class StudiosPipeline:
 class JsonWriterPipeline:
     def open_spider(self, spider):
         file_name = spider.name.rstrip("_spider")
-        self.file = open(f"outputs/{file_name}_items.jl", "w")
+        self.file = open(f"outputs/{file_name}_items.jsonl", "w")
 
     def close_spider(self, spider):
         return self.file.close()
