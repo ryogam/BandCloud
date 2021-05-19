@@ -3,7 +3,7 @@ from scrapy.crawler import CrawlerRunner
 from twisted.internet import reactor, defer
 from scrapy.utils.log import configure_logging
 from scrapy.utils.project import get_project_settings
-from spiders import noah_spider, penta_spider
+from spiders import noah_spider, penta_spider, noah_group_spider
 
 
 configure_logging()
@@ -14,6 +14,7 @@ runner = CrawlerRunner(setting)
 def crawl():
     yield runner.crawl(noah_spider.NoahSpider)
     yield runner.crawl(penta_spider.PentaSpider)
+    yield runner.crawl(noah_group_spider.NoahGroupSpider)
     reactor.stop()
 
 crawl()
