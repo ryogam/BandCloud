@@ -1,11 +1,7 @@
 import React, { useReducer } from "react";
-import {
-  InputArea,
-  RadioBlock,
-  SelectButton,
-  SubmitButton,
-  CheckBox,
-} from "views/components/atoms/Button";
+import { SelectButton, SubmitButton } from "views/components/atoms/Button";
+import { InputForm } from "views/components/atoms/Input";
+import { RadioBlock, CheckBox } from "views/components/block/Box";
 import "style/tailwind.css";
 
 export type ObjectType = {
@@ -19,7 +15,7 @@ type Action = {
   aug: string;
 };
 
-const InputForm = () => {
+const SearchForm = () => {
   const initialObj: ObjectType = {
     input: "",
     radio: "",
@@ -63,7 +59,7 @@ const InputForm = () => {
               onSubmit={handleSubmit}
               className="max-w-sm p-10 m-auto bg-white bg-opacity-25 rounded shadow-xl"
             >
-              <InputArea name="input" onChange={handleInput} />
+              <InputForm name="input" onChange={handleInput} />
               <RadioBlock
                 value={obj.radio}
                 labelList={["man", "woman", "other"]}
@@ -95,4 +91,4 @@ const location = ["Ota", "Setagaya", "Shinbashi"];
 
 const instruments = ["guitar", "base", "drum", "piano", "violin"];
 
-export default InputForm;
+export default SearchForm;
