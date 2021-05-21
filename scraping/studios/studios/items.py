@@ -9,9 +9,14 @@ import scrapy
 class StudiosItem(scrapy.Item):
     name = scrapy.Field()
     group = scrapy.Field()
+    erea = scrapy.Field()
+    station = scrapy.Field()
+    number_rooms = scrapy.Field()
     phone = scrapy.Field()
     address = scrapy.Field()
     time = scrapy.Field()
+    fee = scrapy.Field()
+    url = scrapy.Field()
     pass
 
 class RoomsItem(scrapy.Item):
