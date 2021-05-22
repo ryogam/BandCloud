@@ -115,14 +115,8 @@ export const List = (props: ListProps) => {
     </thead>
   );
 
-  const studioList = (
-    <div className="py-8">
-      {listHead}
-      <div className="-mx-4 sm:-mx-8 px-4 sm:px-8 py-4 overflow-x-auto">
-        <div className="inline-block min-w-full shadow rounded-lg overflow-hidden">
-          <table className="min-w-full leading-normal">
-            {attributes}
-            <tbody>
+  const jsonObjList = (
+    <tbody>
               {props.jsonList
                 .slice(
                   currentPage * jsonPerPage,
@@ -143,12 +137,23 @@ export const List = (props: ListProps) => {
                   );
                 })}
             </tbody>
+  );
+
+  const studioList = (
+    <div className="py-8">
+      {listHead}
+      <div className="-mx-4 sm:-mx-8 px-4 sm:px-8 py-4 overflow-x-auto">
+        <div className="inline-block min-w-full shadow rounded-lg overflow-hidden">
+          <table className="min-w-full leading-normal">
+            {attributes}
+            {jsonObjList}
           </table>
           <div className="px-5 bg-white py-5 flex flex-col xs:flex-row items-center xs:justify-between">
             <div className="flex items-center">
               <button
                 type="button"
                 className="w-full p-4 border text-base rounded-l-xl text-gray-600 bg-white hover:bg-gray-100"
+                onClick={() => setCurrentPage(0)}
               >
                 <svg
                   width="9"
@@ -173,6 +178,7 @@ export const List = (props: ListProps) => {
               <button
                 type="button"
                 className="w-full p-4 border-t border-b border-r text-base  rounded-r-xl text-gray-600 bg-white hover:bg-gray-100"
+                onClick={() => setCurrentPage(pageNum)}
               >
                 <svg
                   width="9"
