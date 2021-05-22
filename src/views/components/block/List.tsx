@@ -117,26 +117,26 @@ export const List = (props: ListProps) => {
 
   const jsonObjList = (
     <tbody>
-              {props.jsonList
-                .slice(
-                  currentPage * jsonPerPage,
-                  Math.min(
-                    (currentPage + 1) * jsonPerPage + 1,
-                    props.jsonList.length + 1
-                  )
-                )
-                .map((json, i) => {
-                  return (
-                    <JsonObjs
-                      group={json.group}
-                      name={json.name}
-                      phone={json.phone}
-                      address={json.address}
-                      key={props.name + i}
-                    />
-                  );
-                })}
-            </tbody>
+      {props.jsonList
+        .slice(
+          currentPage * jsonPerPage,
+          Math.min(
+            (currentPage + 1) * jsonPerPage + 1,
+            props.jsonList.length + 1
+          )
+        )
+        .map((json, i) => {
+          return (
+            <JsonObjs
+              group={json.group}
+              name={json.name}
+              phone={json.phone}
+              address={json.address}
+              key={props.name + i}
+            />
+          );
+        })}
+    </tbody>
   );
 
   const studioList = (
@@ -178,7 +178,7 @@ export const List = (props: ListProps) => {
               <button
                 type="button"
                 className="w-full p-4 border-t border-b border-r text-base  rounded-r-xl text-gray-600 bg-white hover:bg-gray-100"
-                onClick={() => setCurrentPage(pageNum)}
+                onClick={() => setCurrentPage(pageNum - 1)}
               >
                 <svg
                   width="9"
