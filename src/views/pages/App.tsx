@@ -1,15 +1,26 @@
 import React from "react";
-import SearchForm from "views/components/modules/InputForm";
-import { List } from "views/components/atoms/List";
 import logo from "img/logo.svg";
 import "style/App.css";
 import { getJsonLines } from "lib/getJsonLines";
+import Header from "views/components/block/Header";
+import Footer from "views/components/block/Footer";
+import SearchForm from "views/components/modules/InputForm";
+import { List } from "views/components/block/List";
 
 function App() {
   return (
     <div className="App">
-      <List list={noahList} name="noahList" />
-      <SearchForm />
+      <Header />
+      <div>
+        <div className="float-left w-1/5">
+          <SearchForm />
+        </div>
+        <div className="float-left w-3/4">
+          <List jsonList={noahList} name="noahList" />
+        </div>
+      </div>
+      <div className="clear-both w-screen"></div>
+      <Footer />
     </div>
   );
 }

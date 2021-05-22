@@ -1,11 +1,11 @@
 import React from "react";
 import { InputForm } from "views/components/atoms/Input";
 
-type SearchFormProps = {
+type FormWithButtonProps = {
   buttonLabel: string;
 };
 
-export const FormWithButton = (props: SearchFormProps) => {
+export const FormWithButton = (props: FormWithButtonProps) => {
   return (
     <form className="flex w-full max-w-sm space-x-3">
       <div className=" relative ">

@@ -28,7 +28,7 @@ type CheckProps = {
 
 type PageTransitionButtonProps = {
   num: number;
-  onChange: React.ChangeEventHandler<HTMLButtonElement>;
+  onChange: React.MouseEventHandler<HTMLButtonElement>;
 };
 
 export const RadioButton = (props: RadioProps) => {
@@ -53,36 +53,20 @@ export const SelectButton = (props: ListProps) => {
   const [display, setDisplay] = useState(false);
   return (
     <div id={props.id} className="text-left">
-      {!display && (
-        <button
-          onClick={() => setDisplay(!display)}
-          className="text-white rounded bg-black text-left border-red-500 border"
+      <fieldset>
+        <select
+          name={props.name}
+          value={props.handleValue}
+          onChange={props.onChange}
+          className="w-full block w-52 text-gray-700 py-2 px-1 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-primary-500 focus:border-primary-500"
         >
-          selectField
-        </button>
-      )}
-      {display && (
-        <fieldset>
-          <button
-            onClick={() => setDisplay(!display)}
-            className="text-white rounded bg-black text-left border-red-500 border"
-          >
-            selectField
-          </button>
-          <select
-            name={props.name}
-            value={props.handleValue}
-            onChange={props.onChange}
-            className="block w-52 text-gray-700 py-2 px-1 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-primary-500 focus:border-primary-500"
-          >
-            {props.list.map((e, i) => (
-              <option value={e} key={props.name + i}>
-                {e}
-              </option>
-            ))}
-          </select>
-        </fieldset>
-      )}
+          {props.list.map((e, i) => (
+            <option value={e} key={props.name + i}>
+              {e}
+            </option>
+          ))}
+        </select>
+      </fieldset>
     </div>
   );
 };
@@ -116,9 +100,9 @@ export const PageTransitionButton = (props: PageTransitionButtonProps) => {
     <button
       type="button"
       className="w-full px-4 py-2 border-t border-b text-base text-indigo-500 bg-white hover:bg-gray-100 "
-      onChange={props.onChange}
+      onClick={props.onChange}
     >
-      {props.num}
+      {props.num + 1}
     </button>
   );
 };
