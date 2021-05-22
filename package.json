@@ -18,6 +18,7 @@
     "postcss": "^8.2.15",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "tailwindcss": "^2.1.2",
     "typescript": "^4.2.4",
@@ -26,7 +27,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "build:tailwind":"tailwind build src/style/index.css -o src/tailwind.css",
+    "build:tailwind": "tailwind build src/style/index.css -o src/tailwind.css",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "watch": "jest --watchAll",
@@ -53,6 +54,7 @@
   },
   "devDependencies": {
     "@types/jest": "^26.0.23",
+    "@types/react-router-dom": "^5.1.7",
     "@typescript-eslint/eslint-plugin": "^4.23.0",
     "eslint": "^7.26.0",
     "eslint-config-prettier": "^8.3.0",
