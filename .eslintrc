@@ -1,7 +1,5 @@
 {
-  "plugins": [
-    "prettier"
-  ],
+  "plugins": ["prettier"],
   "extends": [
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended",
@@ -12,8 +10,12 @@
     "prettier/prettier": "error",
     "@typescript-eslint/no-var-requires": 1,
     "@typescript-eslint/indent": 0,
-    "react/jsx-filename-extension": [1, {
-      "extensions": [".ts", ".tsx", ".js", ".jsx"]
-    }]
+    "react/jsx-filename-extension": [
+      1,
+      {
+        "extensions": [".ts", ".tsx", ".js", ".jsx"]
+      }
+    ],
+    "indent": [1, 2]
   }
 }
