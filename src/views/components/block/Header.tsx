@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import "style/tailwind.css";
 import { Link } from "react-router-dom";
-import { BrowserRouter as Router, Route } from "react-router-dom";
 
 function Header() {
   return (
