@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bandcloud-dev-113712-authRole",
+      "UnauthRoleArn": "arn:aws:iam::176446008360:role/amplify-bandcloud-dev-113712-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::176446008360:role/amplify-bandcloud-dev-113712-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-bandcloud-dev-113712-deployment",
+      "UnauthRoleName": "amplify-bandcloud-dev-113712-unauthRole",
+      "StackName": "amplify-bandcloud-dev-113712",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:176446008360:stack/amplify-bandcloud-dev-113712/1e1a5ac0-bd02-11eb-93f7-064a883b3c10",
+      "AmplifyAppId": "d31tchq6071i42"
+    }
+  }
+}
