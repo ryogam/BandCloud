@@ -12,8 +12,8 @@ runner = CrawlerRunner(setting)
 
 @defer.inlineCallbacks
 def crawl():
-    yield runner.crawl(noah_spider.NoahSpider)
-    yield runner.crawl(penta_spider.PentaSpider)
+    #yield runner.crawl(noah_spider.NoahSpider)
+    #yield runner.crawl(penta_spider.PentaSpider)
     yield runner.crawl(noah_group_spider.NoahGroupSpider)
     yield runner.crawl(sagasuta_spider.SagasutaSpider)
     reactor.stop()
