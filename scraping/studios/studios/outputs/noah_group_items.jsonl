@@ -1,364 +1,364 @@
-{"group": "noah", "studio_name": "田園調布", "room_name": "2Fst", "room_type": "バンドスタジオ", "room_size": "2帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "1st", "room_type": "ピアノ専用スタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "2Ast", "room_type": "ピアノ専用スタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "2Bst", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "2Cst", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "2Est", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "DUOst", "room_type": "ピアノ専用スタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "3Bst", "room_type": "ピアノ専用スタジオ", "room_size": "帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "3Cst", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "4Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "4Bst", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "4Cst", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "田園調布", "room_name": "Salon", "room_type": "ピアノ専用スタジオ", "room_size": "30帖"}
-{"group": "noah", "studio_name": "サウンドアーツ ", "room_name": "1st", "room_type": "レコーディングスタジオ", "room_size": null}
-{"group": "noah", "studio_name": "サウンドアーツ ", "room_name": "2st", "room_type": "レコーディングスタジオ", "room_size": null}
-{"group": "noah", "studio_name": "サウンドアーツ ", "room_name": "3st", "room_type": "レコーディングスタジオ", "room_size": null}
-{"group": "noah", "studio_name": "赤坂", "room_name": "CSst+subroom", "room_type": "バンドスタジオ", "room_size": "17帖+5帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "3Bst", "room_type": "バンドスタジオ", "room_size": "7.5帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "3P booth", "room_type": "バンドスタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "3C booth", "room_type": "バンドスタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "4Bst", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "4Lbooth", "room_type": "バンドスタジオ", "room_size": "7.5帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "5Bst", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "5L booth", "room_type": "バンドスタジオ", "room_size": "7.5帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "6Bst", "room_type": "バンドスタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "6P booth", "room_type": "バンドスタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "6C booth", "room_type": "バンドスタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "7A booth", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "赤坂", "room_name": "7B booth", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "9.5帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "GSst", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "Rec.Booth", "room_type": "バンドスタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "GSst＋Rec.Booth", "room_type": "バンドスタジオ", "room_size": "10＋5帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "13帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "21帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "20帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "Cst＋Subroom", "room_type": "バンドスタジオ", "room_size": "24＋4帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "Booth2", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "2.5帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "D5st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "60帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "D6st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "60帖"}
-{"group": "noah", "studio_name": "秋葉原", "room_name": "D9st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "32帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "Bst", "room_type": "バンドスタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "Gst+Subroom", "room_type": "バンドスタジオ", "room_size": "12+2帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "D6st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "21帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "D8st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "21帖"}
-{"group": "noah", "studio_name": "銀座", "room_name": "D9st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "21帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "8.5帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "A6st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "Est", "room_type": "バンドスタジオ", "room_size": "20帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "26＋6帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3.5帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "REC STUDIO", "room_type": "バンドスタジオ", "room_size": "6+14帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "CSst + Subroom", "room_type": "バンドスタジオ", "room_size": "35帖+20帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "9.5帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "13帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "REC booth", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "都立大", "room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "1Bst", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "Booth", "room_type": "バンドスタジオ", "room_size": "2.2帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "1Ast", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "2Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "2Bst", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "2Cst", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "3Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "3Bst", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "3Cst", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "目黒不動前", "room_name": "3Est", "room_type": "ピアノ専用スタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "自由が丘", "room_name": "Ast", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "自由が丘", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "自由が丘", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "自由が丘", "room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "自由が丘", "room_name": "Est", "room_type": "バンドスタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "自由が丘", "room_name": "Cst", "room_type": "バンドスタジオ", "room_size": "24帖"}
-{"group": "noah", "studio_name": "自由が丘", "room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "1Ast+subroom", "room_type": "バンドスタジオ", "room_size": "85+12帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "1Bst+subroom", "room_type": "バンドスタジオ", "room_size": "60+6帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "Bst", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "48帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "Ast", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "36帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "Cst", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "110帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "M3st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "B2st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "60帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "A2st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "40帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "M4st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "M6st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "20帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "M5st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "18帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "M2st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "M1st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "S3st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "S2st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "S1st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "7st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "90帖"}
-{"group": "noah", "studio_name": "学芸大", "room_name": "6st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "110帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "S1st", "room_type": "バンドスタジオ", "room_size": "6.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "S2st", "room_type": "バンドスタジオ", "room_size": "6.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "B5st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "E1st+subroom", "room_type": "バンドスタジオ", "room_size": "16+5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "19帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "Cst＋Subroom", "room_type": "バンドスタジオ", "room_size": "26+3帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "CSst+subroom", "room_type": "バンドスタジオ", "room_size": "22+6帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "Booth2", "room_type": "バンドスタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "Booth3", "room_type": "バンドスタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "Booth1&2 or Booth2&3", "room_type": "バンドスタジオ", "room_size": "2部屋リンク"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "Booth1&2&3", "room_type": "バンドスタジオ", "room_size": "3部屋リンク"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "Booth5", "room_type": "バンドスタジオ", "room_size": "2帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "Booth1", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "5.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "5.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P10st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "恵比寿", "room_name": "P11st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "Ast", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "Gst", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "13帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "13帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "Est", "room_type": "バンドスタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "Fst+subroom", "room_type": "バンドスタジオ", "room_size": "16＋12帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "23＋6帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "2帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "9.5帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "9.5帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "D7st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "20帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "D10st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "31帖"}
-{"group": "noah", "studio_name": "駒沢", "room_name": "D11st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "31帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "Gst", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "Bst", "room_type": "バンドスタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "Est", "room_type": "バンドスタジオ", "room_size": "20帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "Fst+subroom", "room_type": "バンドスタジオ", "room_size": "20帖+4帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "35＋5帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "Booth", "room_type": "バンドスタジオ", "room_size": "3.5帖"}
-{"group": "noah", "studio_name": "三軒茶屋", "room_name": "1st+subroom", "room_type": "バンドスタジオ", "room_size": "28帖＋6帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "G3st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "13帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "Cst", "room_type": "バンドスタジオ", "room_size": "22帖"}
-{"group": "noah", "studio_name": "渋谷2号", "room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "7.5帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "B5st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "17帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "2.5帖"}
-{"group": "noah", "studio_name": "渋谷1号", "room_name": "R/P STUDIO", "room_type": "バンドスタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "E3st", "room_type": "バンドスタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "Fst", "room_type": "バンドスタジオ", "room_size": "18帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "32帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "REC STUDIO", "room_type": "バンドスタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "初台", "room_name": "Booth2", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "G3st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "13帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "Est", "room_type": "バンドスタジオ", "room_size": "17帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "REC STUDIO", "room_type": "バンドスタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "BoothA", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "BoothB", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "ANNEX1st", "room_type": "ピアノ専用スタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "ANNEX2st", "room_type": "ピアノ専用スタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "1Ast", "room_type": "ピアノ専用スタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "2Ast", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "2Bst", "room_type": "ピアノ専用スタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "3Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "3Bst", "room_type": "ピアノ専用スタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "4Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "4Bst", "room_type": "ピアノ専用スタジオ", "room_size": "2.5帖"}
-{"group": "noah", "studio_name": "下北沢", "room_name": "4Cst", "room_type": "ピアノ専用スタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "池尻大橋", "room_name": "Ast", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "池尻大橋", "room_name": "Cst", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "池尻大橋", "room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "池尻大橋", "room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "2.5帖"}
-{"group": "noah", "studio_name": "池尻大橋", "room_name": "Booth2", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "3Ast", "room_type": "バンドスタジオ", "room_size": "8.5帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "3Bst", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "4Ast", "room_type": "バンドスタジオ", "room_size": "8.5帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "4Bst", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "5Ast", "room_type": "バンドスタジオ", "room_size": "8.5帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "5Bst", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "6Cst", "room_type": "バンドスタジオ", "room_size": "28+2.5帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "G1st+sub", "room_type": "バンドスタジオ", "room_size": "11.5＋4帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "subroom", "room_type": "バンドスタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "G1st ", "room_type": "バンドスタジオ", "room_size": "のみ利用の場合"}
-{"group": "noah", "studio_name": "代々木", "room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "S1st", "room_type": "バンドスタジオ", "room_size": "7.5帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "S2st", "room_type": "バンドスタジオ", "room_size": "7.5帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "2st", "room_type": "バンドスタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "3st", "room_type": "バンドスタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "代々木", "room_name": "2Rooms Link ", "room_type": "バンドスタジオ", "room_size": "2部屋リンク｜1・2・3st内"}
-{"group": "noah", "studio_name": "代々木", "room_name": "3Rooms Link ", "room_type": "バンドスタジオ", "room_size": "3部屋リンク｜1・2・3st内"}
-{"group": "noah", "studio_name": "代々木", "room_name": "1st", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "S1st", "room_type": "バンドスタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "S2st", "room_type": "バンドスタジオ", "room_size": "6.5帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "S3st", "room_type": "バンドスタジオ", "room_size": "6.5帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "A6st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "A7st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "G3st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "13帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "18帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "新宿", "room_name": "E3st", "room_type": "バンドスタジオ", "room_size": "16帖"}
-{"group": "noah", "studio_name": "中野", "room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "6.5帖"}
-{"group": "noah", "studio_name": "中野", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "中野", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "中野", "room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "中野", "room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "中野", "room_name": "Bst", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "中野", "room_name": "Est", "room_type": "バンドスタジオ", "room_size": "17帖"}
-{"group": "noah", "studio_name": "中野", "room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "2帖"}
-{"group": "noah", "studio_name": "中野", "room_name": "Booth2", "room_type": "バンドスタジオ", "room_size": "2帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "G3st", "room_type": "バンドスタジオ", "room_size": "13帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "Bst", "room_type": "バンドスタジオ", "room_size": "15帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "GSst+subroom", "room_type": "バンドスタジオ", "room_size": "11+4.5帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "Est", "room_type": "バンドスタジオ", "room_size": "18帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "CONCERTst", "room_type": "ピアノ専用スタジオ", "room_size": "22帖"}
-{"group": "noah", "studio_name": "吉祥寺", "room_name": "10st", "room_type": "ピアノ専用スタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "Est", "room_type": "バンドスタジオ", "room_size": "17帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "Fst", "room_type": "バンドスタジオ", "room_size": "21帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "30+5帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "Rec.Booth", "room_type": "バンドスタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "Rec.B+Booth2", "room_type": "バンドスタジオ", "room_size": "5帖+4帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "Rec.B+B2st", "room_type": "バンドスタジオ", "room_size": "5帖+14帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "Rec.B+B2st+Booth2", "room_type": "バンドスタジオ", "room_size": "5帖+14帖+4帖"}
-{"group": "noah", "studio_name": "高田馬場", "room_name": "Booth2", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8.5帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9.5帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "9.5帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "ASst", "room_type": "バンドスタジオ", "room_size": "9.5帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "Rec.Booth", "room_type": "バンドスタジオ", "room_size": "7帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "ASst＋RecBooth", "room_type": "バンドスタジオ", "room_size": "9.5＋7帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "17帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "17帖"}
-{"group": "noah", "studio_name": "野方", "room_name": "CSst", "room_type": "バンドスタジオ", "room_size": "36帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "6.5帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "10帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "13帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "E1st+subroom", "room_type": "バンドスタジオ", "room_size": "20+4帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "E2st+subroom", "room_type": "バンドスタジオ", "room_size": "16＋3帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "2.2帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "2.2帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P10st", "room_type": "ピアノ専用スタジオ", "room_size": "8帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "DUOst", "room_type": "ピアノ専用スタジオ", "room_size": "12帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P11st", "room_type": "ピアノ専用スタジオ", "room_size": "2.5帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P12st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "P13st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖"}
-{"group": "noah", "studio_name": "池袋", "room_name": "SSst", "room_type": "ピアノ専用スタジオ", "room_size": "6帖"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "高田馬場"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "高田馬場"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "高田馬場"}
+{"room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "高田馬場"}
+{"room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "高田馬場"}
+{"room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "高田馬場"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "高田馬場"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "高田馬場"}
+{"room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "高田馬場"}
+{"room_name": "Est", "room_type": "バンドスタジオ", "room_size": "17帖", "studio_name": "高田馬場"}
+{"room_name": "Fst", "room_type": "バンドスタジオ", "room_size": "21帖", "studio_name": "高田馬場"}
+{"room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "30+5帖", "studio_name": "高田馬場"}
+{"room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "高田馬場"}
+{"room_name": "Rec.Booth", "room_type": "バンドスタジオ", "room_size": "5帖", "studio_name": "高田馬場"}
+{"room_name": "Rec.B+Booth2", "room_type": "バンドスタジオ", "room_size": "5帖+4帖", "studio_name": "高田馬場"}
+{"room_name": "Rec.B+B2st", "room_type": "バンドスタジオ", "room_size": "5帖+14帖", "studio_name": "高田馬場"}
+{"room_name": "Rec.B+B2st+Booth2", "room_type": "バンドスタジオ", "room_size": "5帖+14帖+4帖", "studio_name": "高田馬場"}
+{"room_name": "Booth2", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "高田馬場"}
+{"room_name": "CSst+subroom", "room_type": "バンドスタジオ", "room_size": "17帖+5帖", "studio_name": "赤坂"}
+{"room_name": "3Bst", "room_type": "バンドスタジオ", "room_size": "7.5帖", "studio_name": "赤坂"}
+{"room_name": "3P booth", "room_type": "バンドスタジオ", "room_size": "4帖", "studio_name": "赤坂"}
+{"room_name": "3C booth", "room_type": "バンドスタジオ", "room_size": "4帖", "studio_name": "赤坂"}
+{"room_name": "4Bst", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "赤坂"}
+{"room_name": "4Lbooth", "room_type": "バンドスタジオ", "room_size": "7.5帖", "studio_name": "赤坂"}
+{"room_name": "5Bst", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "赤坂"}
+{"room_name": "5L booth", "room_type": "バンドスタジオ", "room_size": "7.5帖", "studio_name": "赤坂"}
+{"room_name": "6Bst", "room_type": "バンドスタジオ", "room_size": "7帖", "studio_name": "赤坂"}
+{"room_name": "6P booth", "room_type": "バンドスタジオ", "room_size": "4帖", "studio_name": "赤坂"}
+{"room_name": "6C booth", "room_type": "バンドスタジオ", "room_size": "4帖", "studio_name": "赤坂"}
+{"room_name": "7A booth", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "赤坂"}
+{"room_name": "7B booth", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "赤坂"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8.5帖", "studio_name": "野方"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9.5帖", "studio_name": "野方"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "9.5帖", "studio_name": "野方"}
+{"room_name": "ASst", "room_type": "バンドスタジオ", "room_size": "9.5帖", "studio_name": "野方"}
+{"room_name": "Rec.Booth", "room_type": "バンドスタジオ", "room_size": "7帖", "studio_name": "野方"}
+{"room_name": "ASst＋RecBooth", "room_type": "バンドスタジオ", "room_size": "9.5＋7帖", "studio_name": "野方"}
+{"room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "野方"}
+{"room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "野方"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "野方"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "野方"}
+{"room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "17帖", "studio_name": "野方"}
+{"room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "17帖", "studio_name": "野方"}
+{"room_name": "CSst", "room_type": "バンドスタジオ", "room_size": "36帖", "studio_name": "野方"}
+{"room_name": "S1st", "room_type": "バンドスタジオ", "room_size": "6.5帖", "studio_name": "恵比寿"}
+{"room_name": "S2st", "room_type": "バンドスタジオ", "room_size": "6.5帖", "studio_name": "恵比寿"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "恵比寿"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "恵比寿"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "恵比寿"}
+{"room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "恵比寿"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "恵比寿"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "恵比寿"}
+{"room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "恵比寿"}
+{"room_name": "B5st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "恵比寿"}
+{"room_name": "E1st+subroom", "room_type": "バンドスタジオ", "room_size": "16+5帖", "studio_name": "恵比寿"}
+{"room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "19帖", "studio_name": "恵比寿"}
+{"room_name": "Cst＋Subroom", "room_type": "バンドスタジオ", "room_size": "26+3帖", "studio_name": "恵比寿"}
+{"room_name": "CSst+subroom", "room_type": "バンドスタジオ", "room_size": "22+6帖", "studio_name": "恵比寿"}
+{"room_name": "Booth2", "room_type": "バンドスタジオ", "room_size": "6帖", "studio_name": "恵比寿"}
+{"room_name": "Booth3", "room_type": "バンドスタジオ", "room_size": "4.5帖", "studio_name": "恵比寿"}
+{"room_name": "Booth1&2 or Booth2&3", "room_type": "バンドスタジオ", "room_size": "2部屋リンク", "studio_name": "恵比寿"}
+{"room_name": "Booth1&2&3", "room_type": "バンドスタジオ", "room_size": "3部屋リンク", "studio_name": "恵比寿"}
+{"room_name": "Booth5", "room_type": "バンドスタジオ", "room_size": "2帖", "studio_name": "恵比寿"}
+{"room_name": "Booth1", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖", "studio_name": "恵比寿"}
+{"room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "5.5帖", "studio_name": "恵比寿"}
+{"room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖", "studio_name": "恵比寿"}
+{"room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖", "studio_name": "恵比寿"}
+{"room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖", "studio_name": "恵比寿"}
+{"room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "5.5帖", "studio_name": "恵比寿"}
+{"room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖", "studio_name": "恵比寿"}
+{"room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖", "studio_name": "恵比寿"}
+{"room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖", "studio_name": "恵比寿"}
+{"room_name": "P10st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "恵比寿"}
+{"room_name": "P11st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "恵比寿"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "秋葉原"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "秋葉原"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "秋葉原"}
+{"room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "秋葉原"}
+{"room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "9.5帖", "studio_name": "秋葉原"}
+{"room_name": "GSst", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "秋葉原"}
+{"room_name": "Rec.Booth", "room_type": "バンドスタジオ", "room_size": "5帖", "studio_name": "秋葉原"}
+{"room_name": "GSst＋Rec.Booth", "room_type": "バンドスタジオ", "room_size": "10＋5帖", "studio_name": "秋葉原"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "秋葉原"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "13帖", "studio_name": "秋葉原"}
+{"room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "21帖", "studio_name": "秋葉原"}
+{"room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "20帖", "studio_name": "秋葉原"}
+{"room_name": "Cst＋Subroom", "room_type": "バンドスタジオ", "room_size": "24＋4帖", "studio_name": "秋葉原"}
+{"room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "秋葉原"}
+{"room_name": "Booth2", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "秋葉原"}
+{"room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "秋葉原"}
+{"room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "9帖", "studio_name": "秋葉原"}
+{"room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "秋葉原"}
+{"room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "秋葉原"}
+{"room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "秋葉原"}
+{"room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "2.5帖", "studio_name": "秋葉原"}
+{"room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "秋葉原"}
+{"room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "秋葉原"}
+{"room_name": "D5st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "60帖", "studio_name": "秋葉原"}
+{"room_name": "Ast", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "自由が丘"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "自由が丘"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "自由が丘"}
+{"room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "自由が丘"}
+{"room_name": "Est", "room_type": "バンドスタジオ", "room_size": "15帖", "studio_name": "自由が丘"}
+{"room_name": "Cst", "room_type": "バンドスタジオ", "room_size": "24帖", "studio_name": "自由が丘"}
+{"room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "自由が丘"}
+{"room_name": "D6st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "60帖", "studio_name": "秋葉原"}
+{"room_name": "D9st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "32帖", "studio_name": "秋葉原"}
+{"room_name": "2Fst", "room_type": "バンドスタジオ", "room_size": "2帖", "studio_name": "田園調布"}
+{"room_name": "1st", "room_type": "ピアノ専用スタジオ", "room_size": "7帖", "studio_name": "田園調布"}
+{"room_name": "2Ast", "room_type": "ピアノ専用スタジオ", "room_size": "7帖", "studio_name": "田園調布"}
+{"room_name": "2Bst", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "田園調布"}
+{"room_name": "2Cst", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "田園調布"}
+{"room_name": "2Est", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "田園調布"}
+{"room_name": "DUOst", "room_type": "ピアノ専用スタジオ", "room_size": "12帖", "studio_name": "田園調布"}
+{"room_name": "3Bst", "room_type": "ピアノ専用スタジオ", "room_size": "帖", "studio_name": "田園調布"}
+{"room_name": "3Cst", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "田園調布"}
+{"room_name": "4Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "田園調布"}
+{"room_name": "4Bst", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "田園調布"}
+{"room_name": "4Cst", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "田園調布"}
+{"room_name": "Salon", "room_type": "ピアノ専用スタジオ", "room_size": "30帖", "studio_name": "田園調布"}
+{"room_name": "1st", "room_type": "レコーディングスタジオ", "room_size": null, "studio_name": "サウンドアーツ "}
+{"room_name": "2st", "room_type": "レコーディングスタジオ", "room_size": null, "studio_name": "サウンドアーツ "}
+{"room_name": "3st", "room_type": "レコーディングスタジオ", "room_size": null, "studio_name": "サウンドアーツ "}
+{"room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "6.5帖", "studio_name": "池袋"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "池袋"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "池袋"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "池袋"}
+{"room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "池袋"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "池袋"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "13帖", "studio_name": "池袋"}
+{"room_name": "E1st+subroom", "room_type": "バンドスタジオ", "room_size": "20+4帖", "studio_name": "池袋"}
+{"room_name": "E2st+subroom", "room_type": "バンドスタジオ", "room_size": "16＋3帖", "studio_name": "池袋"}
+{"room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "池袋"}
+{"room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "池袋"}
+{"room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "池袋"}
+{"room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "池袋"}
+{"room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "池袋"}
+{"room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "池袋"}
+{"room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "池袋"}
+{"room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "2.2帖", "studio_name": "池袋"}
+{"room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "2.2帖", "studio_name": "池袋"}
+{"room_name": "P10st", "room_type": "ピアノ専用スタジオ", "room_size": "8帖", "studio_name": "池袋"}
+{"room_name": "DUOst", "room_type": "ピアノ専用スタジオ", "room_size": "12帖", "studio_name": "池袋"}
+{"room_name": "1Bst", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "目黒不動前"}
+{"room_name": "Booth", "room_type": "バンドスタジオ", "room_size": "2.2帖", "studio_name": "目黒不動前"}
+{"room_name": "1Ast", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "目黒不動前"}
+{"room_name": "2Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖", "studio_name": "目黒不動前"}
+{"room_name": "2Bst", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "目黒不動前"}
+{"room_name": "2Cst", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "目黒不動前"}
+{"room_name": "3Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖", "studio_name": "目黒不動前"}
+{"room_name": "3Bst", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "目黒不動前"}
+{"room_name": "3Cst", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "目黒不動前"}
+{"room_name": "3Est", "room_type": "ピアノ専用スタジオ", "room_size": "8帖", "studio_name": "目黒不動前"}
+{"room_name": "P11st", "room_type": "ピアノ専用スタジオ", "room_size": "2.5帖", "studio_name": "池袋"}
+{"room_name": "P12st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "池袋"}
+{"room_name": "P13st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "池袋"}
+{"room_name": "SSst", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "池袋"}
+{"room_name": "Bst", "room_type": "バンドスタジオ", "room_size": "15帖", "studio_name": "銀座"}
+{"room_name": "Gst+Subroom", "room_type": "バンドスタジオ", "room_size": "12+2帖", "studio_name": "銀座"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "7帖", "studio_name": "銀座"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "6帖", "studio_name": "銀座"}
+{"room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "銀座"}
+{"room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "銀座"}
+{"room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "銀座"}
+{"room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "銀座"}
+{"room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "銀座"}
+{"room_name": "D6st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "21帖", "studio_name": "銀座"}
+{"room_name": "D8st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "21帖", "studio_name": "銀座"}
+{"room_name": "D9st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "21帖", "studio_name": "銀座"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "都立大"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "都立大"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "都立大"}
+{"room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "8.5帖", "studio_name": "都立大"}
+{"room_name": "A6st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "都立大"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "15帖", "studio_name": "都立大"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "16帖", "studio_name": "都立大"}
+{"room_name": "Est", "room_type": "バンドスタジオ", "room_size": "20帖", "studio_name": "都立大"}
+{"room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "26＋6帖", "studio_name": "都立大"}
+{"room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3.5帖", "studio_name": "都立大"}
+{"room_name": "REC STUDIO", "room_type": "バンドスタジオ", "room_size": "6+14帖", "studio_name": "都立大"}
+{"room_name": "CSst + Subroom", "room_type": "バンドスタジオ", "room_size": "35帖+20帖", "studio_name": "都立大"}
+{"room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "9.5帖", "studio_name": "都立大"}
+{"room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "7帖", "studio_name": "都立大"}
+{"room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖", "studio_name": "都立大"}
+{"room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖", "studio_name": "都立大"}
+{"room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "都立大"}
+{"room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "8帖", "studio_name": "都立大"}
+{"room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "13帖", "studio_name": "都立大"}
+{"room_name": "REC booth", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "都立大"}
+{"room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "3.5帖", "studio_name": "都立大"}
+{"room_name": "1Ast+subroom", "room_type": "バンドスタジオ", "room_size": "85+12帖", "studio_name": "学芸大"}
+{"room_name": "1Bst+subroom", "room_type": "バンドスタジオ", "room_size": "60+6帖", "studio_name": "学芸大"}
+{"room_name": "Bst", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "48帖", "studio_name": "学芸大"}
+{"room_name": "Ast", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "36帖", "studio_name": "学芸大"}
+{"room_name": "Cst", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "110帖", "studio_name": "学芸大"}
+{"room_name": "M3st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "16帖", "studio_name": "学芸大"}
+{"room_name": "B2st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "60帖", "studio_name": "学芸大"}
+{"room_name": "A2st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "40帖", "studio_name": "学芸大"}
+{"room_name": "M4st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "16帖", "studio_name": "学芸大"}
+{"room_name": "M6st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "20帖", "studio_name": "学芸大"}
+{"room_name": "M5st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "18帖", "studio_name": "学芸大"}
+{"room_name": "M2st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "15帖", "studio_name": "学芸大"}
+{"room_name": "M1st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "14帖", "studio_name": "学芸大"}
+{"room_name": "S3st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "11帖", "studio_name": "学芸大"}
+{"room_name": "S2st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "10帖", "studio_name": "学芸大"}
+{"room_name": "S1st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "9帖", "studio_name": "学芸大"}
+{"room_name": "7st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "90帖", "studio_name": "学芸大"}
+{"room_name": "6st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "110帖", "studio_name": "学芸大"}
+{"room_name": "Ast", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "駒沢"}
+{"room_name": "Gst", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "駒沢"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "13帖", "studio_name": "駒沢"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "13帖", "studio_name": "駒沢"}
+{"room_name": "Est", "room_type": "バンドスタジオ", "room_size": "16帖", "studio_name": "駒沢"}
+{"room_name": "Fst+subroom", "room_type": "バンドスタジオ", "room_size": "16＋12帖", "studio_name": "駒沢"}
+{"room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "23＋6帖", "studio_name": "駒沢"}
+{"room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "2帖", "studio_name": "駒沢"}
+{"room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "9.5帖", "studio_name": "駒沢"}
+{"room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "9.5帖", "studio_name": "駒沢"}
+{"room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "駒沢"}
+{"room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "駒沢"}
+{"room_name": "D7st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "20帖", "studio_name": "駒沢"}
+{"room_name": "D10st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "31帖", "studio_name": "駒沢"}
+{"room_name": "D11st", "room_type": "演劇・ダンス練習用スタジオ", "room_size": "31帖", "studio_name": "駒沢"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "三軒茶屋"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "三軒茶屋"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "三軒茶屋"}
+{"room_name": "Gst", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "三軒茶屋"}
+{"room_name": "Bst", "room_type": "バンドスタジオ", "room_size": "15帖", "studio_name": "三軒茶屋"}
+{"room_name": "Est", "room_type": "バンドスタジオ", "room_size": "20帖", "studio_name": "三軒茶屋"}
+{"room_name": "Fst+subroom", "room_type": "バンドスタジオ", "room_size": "20帖+4帖", "studio_name": "三軒茶屋"}
+{"room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "35＋5帖", "studio_name": "三軒茶屋"}
+{"room_name": "Booth", "room_type": "バンドスタジオ", "room_size": "3.5帖", "studio_name": "三軒茶屋"}
+{"room_name": "1st+subroom", "room_type": "バンドスタジオ", "room_size": "28帖＋6帖", "studio_name": "三軒茶屋"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "渋谷1号"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "渋谷1号"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "7.5帖", "studio_name": "渋谷1号"}
+{"room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "渋谷1号"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "渋谷1号"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "渋谷1号"}
+{"room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "渋谷1号"}
+{"room_name": "B5st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "渋谷1号"}
+{"room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "16帖", "studio_name": "渋谷1号"}
+{"room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "17帖", "studio_name": "渋谷1号"}
+{"room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "2.5帖", "studio_name": "渋谷1号"}
+{"room_name": "R/P STUDIO", "room_type": "バンドスタジオ", "room_size": "6帖", "studio_name": "渋谷1号"}
+{"room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "7帖", "studio_name": "渋谷2号"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "渋谷2号"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "渋谷2号"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "渋谷2号"}
+{"room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "渋谷2号"}
+{"room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "渋谷2号"}
+{"room_name": "G3st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "渋谷2号"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "13帖", "studio_name": "渋谷2号"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "渋谷2号"}
+{"room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "渋谷2号"}
+{"room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "16帖", "studio_name": "渋谷2号"}
+{"room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "16帖", "studio_name": "渋谷2号"}
+{"room_name": "Cst", "room_type": "バンドスタジオ", "room_size": "22帖", "studio_name": "渋谷2号"}
+{"room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "渋谷2号"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "6帖", "studio_name": "下北沢"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "下北沢"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "下北沢"}
+{"room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "下北沢"}
+{"room_name": "G3st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "下北沢"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "15帖", "studio_name": "下北沢"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "15帖", "studio_name": "下北沢"}
+{"room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "13帖", "studio_name": "下北沢"}
+{"room_name": "Est", "room_type": "バンドスタジオ", "room_size": "17帖", "studio_name": "下北沢"}
+{"room_name": "REC STUDIO", "room_type": "バンドスタジオ", "room_size": "6帖", "studio_name": "下北沢"}
+{"room_name": "BoothA", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "下北沢"}
+{"room_name": "BoothB", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "下北沢"}
+{"room_name": "ANNEX1st", "room_type": "ピアノ専用スタジオ", "room_size": "7帖", "studio_name": "下北沢"}
+{"room_name": "ANNEX2st", "room_type": "ピアノ専用スタジオ", "room_size": "15帖", "studio_name": "下北沢"}
+{"room_name": "1Ast", "room_type": "ピアノ専用スタジオ", "room_size": "11帖", "studio_name": "下北沢"}
+{"room_name": "2Ast", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "下北沢"}
+{"room_name": "2Bst", "room_type": "ピアノ専用スタジオ", "room_size": "10帖", "studio_name": "下北沢"}
+{"room_name": "3Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "下北沢"}
+{"room_name": "3Bst", "room_type": "ピアノ専用スタジオ", "room_size": "7帖", "studio_name": "下北沢"}
+{"room_name": "4Ast", "room_type": "ピアノ専用スタジオ", "room_size": "4帖", "studio_name": "下北沢"}
+{"room_name": "4Bst", "room_type": "ピアノ専用スタジオ", "room_size": "2.5帖", "studio_name": "下北沢"}
+{"room_name": "4Cst", "room_type": "ピアノ専用スタジオ", "room_size": "7帖", "studio_name": "下北沢"}
+{"room_name": "Ast", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "池尻大橋"}
+{"room_name": "Cst", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "池尻大橋"}
+{"room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "6帖", "studio_name": "池尻大橋"}
+{"room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "2.5帖", "studio_name": "池尻大橋"}
+{"room_name": "Booth2", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "池尻大橋"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "初台"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "初台"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "初台"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "初台"}
+{"room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "16帖", "studio_name": "初台"}
+{"room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "16帖", "studio_name": "初台"}
+{"room_name": "E3st", "room_type": "バンドスタジオ", "room_size": "16帖", "studio_name": "初台"}
+{"room_name": "Fst", "room_type": "バンドスタジオ", "room_size": "18帖", "studio_name": "初台"}
+{"room_name": "Cst+subroom", "room_type": "バンドスタジオ", "room_size": "32帖", "studio_name": "初台"}
+{"room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "3帖", "studio_name": "初台"}
+{"room_name": "REC STUDIO", "room_type": "バンドスタジオ", "room_size": "5帖", "studio_name": "初台"}
+{"room_name": "Booth2", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "初台"}
+{"room_name": "3Ast", "room_type": "バンドスタジオ", "room_size": "8.5帖", "studio_name": "代々木"}
+{"room_name": "3Bst", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "代々木"}
+{"room_name": "4Ast", "room_type": "バンドスタジオ", "room_size": "8.5帖", "studio_name": "代々木"}
+{"room_name": "4Bst", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "代々木"}
+{"room_name": "5Ast", "room_type": "バンドスタジオ", "room_size": "8.5帖", "studio_name": "代々木"}
+{"room_name": "5Bst", "room_type": "バンドスタジオ", "room_size": "14帖", "studio_name": "代々木"}
+{"room_name": "6Cst", "room_type": "バンドスタジオ", "room_size": "28+2.5帖", "studio_name": "代々木"}
+{"room_name": "G1st+sub", "room_type": "バンドスタジオ", "room_size": "11.5＋4帖", "studio_name": "代々木"}
+{"room_name": "subroom", "room_type": "バンドスタジオ", "room_size": "4帖", "studio_name": "代々木"}
+{"room_name": "G1st ", "room_type": "バンドスタジオ", "room_size": "のみ利用の場合", "studio_name": "代々木"}
+{"room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "代々木"}
+{"room_name": "S1st", "room_type": "バンドスタジオ", "room_size": "7.5帖", "studio_name": "代々木"}
+{"room_name": "S2st", "room_type": "バンドスタジオ", "room_size": "7.5帖", "studio_name": "代々木"}
+{"room_name": "2st", "room_type": "バンドスタジオ", "room_size": "4.5帖", "studio_name": "代々木"}
+{"room_name": "3st", "room_type": "バンドスタジオ", "room_size": "4.5帖", "studio_name": "代々木"}
+{"room_name": "2Rooms Link ", "room_type": "バンドスタジオ", "room_size": "2部屋リンク｜1・2・3st内", "studio_name": "代々木"}
+{"room_name": "3Rooms Link ", "room_type": "バンドスタジオ", "room_size": "3部屋リンク｜1・2・3st内", "studio_name": "代々木"}
+{"room_name": "1st", "room_type": "ピアノ専用スタジオ", "room_size": "4.5帖", "studio_name": "代々木"}
+{"room_name": "S1st", "room_type": "バンドスタジオ", "room_size": "7帖", "studio_name": "新宿"}
+{"room_name": "S2st", "room_type": "バンドスタジオ", "room_size": "6.5帖", "studio_name": "新宿"}
+{"room_name": "S3st", "room_type": "バンドスタジオ", "room_size": "6.5帖", "studio_name": "新宿"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "新宿"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "新宿"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "新宿"}
+{"room_name": "A5st", "room_type": "バンドスタジオ", "room_size": "10帖", "studio_name": "新宿"}
+{"room_name": "A6st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "新宿"}
+{"room_name": "A7st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "新宿"}
+{"room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "新宿"}
+{"room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "新宿"}
+{"room_name": "G3st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "新宿"}
+{"room_name": "B1st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "新宿"}
+{"room_name": "B2st", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "新宿"}
+{"room_name": "B3st", "room_type": "バンドスタジオ", "room_size": "13帖", "studio_name": "新宿"}
+{"room_name": "E1st", "room_type": "バンドスタジオ", "room_size": "18帖", "studio_name": "新宿"}
+{"room_name": "E2st", "room_type": "バンドスタジオ", "room_size": "15帖", "studio_name": "新宿"}
+{"room_name": "E3st", "room_type": "バンドスタジオ", "room_size": "16帖", "studio_name": "新宿"}
+{"room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "6.5帖", "studio_name": "中野"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "8帖", "studio_name": "中野"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "中野"}
+{"room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "中野"}
+{"room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "中野"}
+{"room_name": "Bst", "room_type": "バンドスタジオ", "room_size": "12帖", "studio_name": "中野"}
+{"room_name": "Est", "room_type": "バンドスタジオ", "room_size": "17帖", "studio_name": "中野"}
+{"room_name": "Booth1", "room_type": "バンドスタジオ", "room_size": "2帖", "studio_name": "中野"}
+{"room_name": "Booth2", "room_type": "バンドスタジオ", "room_size": "2帖", "studio_name": "中野"}
+{"room_name": "Sst", "room_type": "バンドスタジオ", "room_size": "7帖", "studio_name": "吉祥寺"}
+{"room_name": "A1st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "吉祥寺"}
+{"room_name": "A2st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "吉祥寺"}
+{"room_name": "A3st", "room_type": "バンドスタジオ", "room_size": "9帖", "studio_name": "吉祥寺"}
+{"room_name": "G1st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "吉祥寺"}
+{"room_name": "G2st", "room_type": "バンドスタジオ", "room_size": "11帖", "studio_name": "吉祥寺"}
+{"room_name": "G3st", "room_type": "バンドスタジオ", "room_size": "13帖", "studio_name": "吉祥寺"}
+{"room_name": "Bst", "room_type": "バンドスタジオ", "room_size": "15帖", "studio_name": "吉祥寺"}
+{"room_name": "GSst+subroom", "room_type": "バンドスタジオ", "room_size": "11+4.5帖", "studio_name": "吉祥寺"}
+{"room_name": "Est", "room_type": "バンドスタジオ", "room_size": "18帖", "studio_name": "吉祥寺"}
+{"room_name": "Vo.Booth", "room_type": "バンドスタジオ", "room_size": "5帖", "studio_name": "吉祥寺"}
+{"room_name": "P1st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "吉祥寺"}
+{"room_name": "P2st", "room_type": "ピアノ専用スタジオ", "room_size": "3帖", "studio_name": "吉祥寺"}
+{"room_name": "P3st", "room_type": "ピアノ専用スタジオ", "room_size": "10帖", "studio_name": "吉祥寺"}
+{"room_name": "P5st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "吉祥寺"}
+{"room_name": "P6st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "吉祥寺"}
+{"room_name": "P7st", "room_type": "ピアノ専用スタジオ", "room_size": "14帖", "studio_name": "吉祥寺"}
+{"room_name": "P8st", "room_type": "ピアノ専用スタジオ", "room_size": "5帖", "studio_name": "吉祥寺"}
+{"room_name": "P9st", "room_type": "ピアノ専用スタジオ", "room_size": "6帖", "studio_name": "吉祥寺"}
+{"room_name": "CONCERTst", "room_type": "ピアノ専用スタジオ", "room_size": "22帖", "studio_name": "吉祥寺"}
+{"room_name": "10st", "room_type": "ピアノ専用スタジオ", "room_size": "14帖", "studio_name": "吉祥寺"}
