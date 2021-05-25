@@ -14,18 +14,6 @@ type ListProps = {
   name: string;
 };
 
-{
-  /*<div className="flex-shrink-0">
-                        <a href="#" className="block relative">
-                          <img
-                            alt="profil"
-                            src="/images/person/8.jpg"
-                            className="mx-auto object-cover rounded-full h-10 w-10 "
-                          />
-                        </a>
-                      </div>*/
-}
-
 const JsonObjs = (props: JsonObjType) => {
   console.log(props.name);
   return (
@@ -57,7 +45,6 @@ const JsonObjs = (props: JsonObjType) => {
 
 export const List = (props: ListProps) => {
   const [currentPage, setCurrentPage] = useState(0);
-  console.log(currentPage);
 
   const jsonPerPage = 4;
   const pageNum =
@@ -120,10 +107,7 @@ export const List = (props: ListProps) => {
       {props.jsonList
         .slice(
           currentPage * jsonPerPage,
-          Math.min(
-            (currentPage + 1) * jsonPerPage + 1,
-            props.jsonList.length + 1
-          )
+          Math.min((currentPage + 1) * jsonPerPage, props.jsonList.length + 1)
         )
         .map((json, i) => {
           return (

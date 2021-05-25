@@ -4,6 +4,8 @@ import Footer from "views/components/block/Footer";
 import Top from "views/pages/Top/Top";
 import Contact from "views/pages/Contact/Contact";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { List } from "views/components/block/List";
+import SeachForm from "views/components/modules/InputForm";
 
 function App() {
   return (
@@ -13,6 +15,15 @@ function App() {
         <Route exact path="/" component={Top} />
         <Route path="/contact" component={Contact} />
       </Switch>
+      <div>
+        <div className="w-1/5 float-left">
+          <SeachForm />
+        </div>
+        <div className="w-3/4 float-left">
+          <List jsonList={noahList} name="noahList" />
+        </div>
+      </div>
+      <div className="clear-both"></div>
       <Footer />
     </BrowserRouter>
   );
