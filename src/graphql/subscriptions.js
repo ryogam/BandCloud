@@ -44,7 +44,6 @@ export const onCreateStudio = /* GraphQL */ `
   subscription OnCreateStudio {
     onCreateStudio {
       id
-      groupID
       name
       group {
         id
@@ -72,7 +71,6 @@ export const onUpdateStudio = /* GraphQL */ `
   subscription OnUpdateStudio {
     onUpdateStudio {
       id
-      groupID
       name
       group {
         id
@@ -100,7 +98,6 @@ export const onDeleteStudio = /* GraphQL */ `
   subscription OnDeleteStudio {
     onDeleteStudio {
       id
-      groupID
       name
       group {
         id
@@ -128,13 +125,11 @@ export const onCreateRoom = /* GraphQL */ `
   subscription OnCreateRoom {
     onCreateRoom {
       id
-      studioID
       name
       type
       size
       studio {
         id
-        groupID
         name
         erea
         station
@@ -156,13 +151,11 @@ export const onUpdateRoom = /* GraphQL */ `
   subscription OnUpdateRoom {
     onUpdateRoom {
       id
-      studioID
       name
       type
       size
       studio {
         id
-        groupID
         name
         erea
         station
@@ -184,13 +177,11 @@ export const onDeleteRoom = /* GraphQL */ `
   subscription OnDeleteRoom {
     onDeleteRoom {
       id
-      studioID
       name
       type
       size
       studio {
         id
-        groupID
         name
         erea
         station

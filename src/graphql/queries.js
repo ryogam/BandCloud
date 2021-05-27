@@ -35,7 +35,6 @@ export const getStudio = /* GraphQL */ `
   query GetStudio($id: ID!) {
     getStudio(id: $id) {
       id
-      groupID
       name
       group {
         id
@@ -68,7 +67,6 @@ export const listStudios = /* GraphQL */ `
     listStudios(filter: $filter, limit: $limit, nextToken: $nextToken) {
       items {
         id
-        groupID
         name
         erea
         station
@@ -89,13 +87,11 @@ export const getRoom = /* GraphQL */ `
   query GetRoom($id: ID!) {
     getRoom(id: $id) {
       id
-      studioID
       name
       type
       size
       studio {
         id
-        groupID
         name
         erea
         station
@@ -122,7 +118,6 @@ export const listRooms = /* GraphQL */ `
     listRooms(filter: $filter, limit: $limit, nextToken: $nextToken) {
       items {
         id
-        studioID
         name
         type
         size

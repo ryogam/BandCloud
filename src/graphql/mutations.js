@@ -56,7 +56,6 @@ export const createStudio = /* GraphQL */ `
   ) {
     createStudio(input: $input, condition: $condition) {
       id
-      groupID
       name
       group {
         id
@@ -87,7 +86,6 @@ export const updateStudio = /* GraphQL */ `
   ) {
     updateStudio(input: $input, condition: $condition) {
       id
-      groupID
       name
       group {
         id
@@ -118,7 +116,6 @@ export const deleteStudio = /* GraphQL */ `
   ) {
     deleteStudio(input: $input, condition: $condition) {
       id
-      groupID
       name
       group {
         id
@@ -149,13 +146,11 @@ export const createRoom = /* GraphQL */ `
   ) {
     createRoom(input: $input, condition: $condition) {
       id
-      studioID
       name
       type
       size
       studio {
         id
-        groupID
         name
         erea
         station
@@ -180,13 +175,11 @@ export const updateRoom = /* GraphQL */ `
   ) {
     updateRoom(input: $input, condition: $condition) {
       id
-      studioID
       name
       type
       size
       studio {
         id
-        groupID
         name
         erea
         station
@@ -211,13 +204,11 @@ export const deleteRoom = /* GraphQL */ `
   ) {
     deleteRoom(input: $input, condition: $condition) {
       id
-      studioID
       name
       type
       size
       studio {
         id
-        groupID
         name
         erea
         station
