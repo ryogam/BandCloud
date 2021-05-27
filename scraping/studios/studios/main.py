@@ -6,10 +6,6 @@ from scrapy.utils.project import get_project_settings
 from spiders import noah_spider, penta_spider, noah_group_spider, sagasuta_spider
 
 
-configure_logging()
-setting = get_project_settings()
-runner = CrawlerRunner(setting)
-
 @defer.inlineCallbacks
 def crawl():
     yield runner.crawl(noah_spider.NoahSpider)
@@ -18,5 +14,11 @@ def crawl():
     yield runner.crawl(sagasuta_spider.SagasutaSpider)
     reactor.stop()
 
-crawl()
-reactor.run() # the script will block here until the last crawl call is finished
+
+if __name__ == "__main__":
+    configure_logging()
+    setting = get_project_settings()
+    runner = CrawlerRunner(setting)
+
+    crawl()
+    reactor.run() # the script will block here until the last crawl call is finished
