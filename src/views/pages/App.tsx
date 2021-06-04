@@ -6,6 +6,12 @@ import Contact from "views/pages/Contact/Contact";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { List } from "views/components/block/List";
 import SeachForm from "views/components/modules/InputForm";
+import { API, graphqlOperation } from "aws-amplify";
+import { getStudio, listStudios } from "graphql/queries";
+
+async function req() {
+  const res = await API.graphql(graphqlOperation(getStudio, { id: 1 }));
+}
 
 function App() {
   return (
@@ -23,7 +29,23 @@ function App() {
           <List jsonList={noahList} name="noahList" />
         </div>
       </div>
-      <div className="clear-both"></div>
+      <div className="clear-both">
+        <button
+          type="button"
+          onClick={() => {
+            const test = req().then(
+              (value) => {
+                console.log(value);
+              },
+              (reason) => {
+                console.log(reason);
+              }
+            );
+          }}
+        >
+          http
+        </button>
+      </div>
       <Footer />
     </BrowserRouter>
   );

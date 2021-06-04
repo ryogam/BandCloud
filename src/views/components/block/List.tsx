@@ -15,7 +15,6 @@ type ListProps = {
 };
 
 const JsonObjs = (props: JsonObjType) => {
-  console.log(props.name);
   return (
     <tr>
       <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
@@ -50,7 +49,6 @@ export const List = (props: ListProps) => {
   const pageNum =
     Math.floor(props.jsonList.length / jsonPerPage) +
     Math.min(props.jsonList.length, 1);
-  console.log(pageNum);
   const range = (start: number, stop: number, step: number) =>
     Array.from(
       { length: (stop - start) / step + 1 },
