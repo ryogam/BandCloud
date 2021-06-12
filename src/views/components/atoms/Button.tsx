@@ -18,17 +18,20 @@ type ListProps = {
   name: string;
   id?: string;
   onChange: React.ChangeEventHandler<HTMLSelectElement>;
+  multiple?: boolean;
 };
 
 type CheckProps = {
   value: string;
   name: string;
   label: string;
+  onChange: (isChecked: boolean) => React.ChangeEventHandler<HTMLInputElement>;
 };
 
 type PageTransitionButtonProps = {
   num: number;
   onChange: React.MouseEventHandler<HTMLButtonElement>;
+  className?: string;
 };
 
 export const RadioButton = (props: RadioProps) => {
@@ -50,7 +53,6 @@ export const RadioButton = (props: RadioProps) => {
 };
 
 export const SelectButton = (props: ListProps) => {
-  const [display, setDisplay] = useState(false);
   return (
     <div id={props.id} className="text-left">
       <fieldset>
@@ -59,6 +61,7 @@ export const SelectButton = (props: ListProps) => {
           value={props.handleValue}
           onChange={props.onChange}
           className="w-full block w-52 text-gray-700 py-2 px-1 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-primary-500 focus:border-primary-500"
+          multiple={props.multiple}
         >
           {props.list.map((e, i) => (
             <option value={e} key={props.name + i}>
@@ -81,7 +84,8 @@ export const CheckButton = (props: CheckProps) => {
           name={props.name}
           value={props.value}
           checked={check}
-          onChange={() => {
+          onChange={(event) => {
+            props.onChange(check)(event);
             setCheck(!check);
           }}
           className="
@@ -96,12 +100,11 @@ export const CheckButton = (props: CheckProps) => {
 };
 
 export const PageTransitionButton = (props: PageTransitionButtonProps) => {
+  const className =
+    "w-full px-4 py-2 border-t border-b text-base bg-white hover:bg-gray-100 " +
+    props.className;
   return (
-    <button
-      type="button"
-      className="w-full px-4 py-2 border-t border-b text-base text-indigo-500 bg-white hover:bg-gray-100 "
-      onClick={props.onChange}
-    >
+    <button type="button" className={className} onClick={props.onChange}>
       {props.num + 1}
     </button>
   );

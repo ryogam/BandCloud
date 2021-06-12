@@ -1,6 +1,6 @@
 projects:
   bandcloud:
-    schemaPath: amplify/backend/api/bandcloud/build/schema.graphql
+    schemaPath: amplify/backend/api/studioAPI/build/schema.graphql
     includes:
       - src/graphql/**/*.ts
     excludes:

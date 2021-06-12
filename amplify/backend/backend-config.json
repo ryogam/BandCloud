@@ -1,6 +1,6 @@
 {
   "api": {
-    "bandcloud": {
+    "studioAPI": {
       "service": "AppSync",
       "providerPlugin": "awscloudformation",
       "output": {

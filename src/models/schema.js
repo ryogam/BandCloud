@@ -1,33 +1,15 @@
 export const schema = {
-    "models": {},
-    "enums": {
-        "ModelAttributeTypes": {
-            "name": "ModelAttributeTypes",
-            "values": [
-                "_null",
-                "binary",
-                "binarySet",
-                "bool",
-                "list",
-                "map",
-                "number",
-                "numberSet",
-                "string",
-                "stringSet"
-            ]
-        },
-        "ModelSortDirection": {
-            "name": "ModelSortDirection",
-            "values": [
-                "ASC",
-                "DESC"
-            ]
-        }
-    },
-    "nonModels": {
-        "Studio": {
-            "name": "Studio",
+    "models": {
+        "StudioTable": {
+            "name": "StudioTable",
             "fields": {
+                "id": {
+                    "name": "id",
+                    "isArray": false,
+                    "type": "ID",
+                    "isRequired": true,
+                    "attributes": []
+                },
                 "address": {
                     "name": "address",
                     "isArray": false,
@@ -55,13 +37,6 @@ export const schema = {
                     "isArray": false,
                     "type": "String",
                     "isRequired": false,
-                    "attributes": []
-                },
-                "id": {
-                    "name": "id",
-                    "isArray": false,
-                    "type": "ID",
-                    "isRequired": true,
                     "attributes": []
                 },
                 "name": {
@@ -105,121 +80,35 @@ export const schema = {
                     "type": "String",
                     "isRequired": false,
                     "attributes": []
-                }
-            }
-        },
-        "Todo": {
-            "name": "Todo",
-            "fields": {
-                "_deleted": {
-                    "name": "_deleted",
-                    "isArray": false,
-                    "type": "Boolean",
-                    "isRequired": false,
-                    "attributes": []
-                },
-                "_lastChangedAt": {
-                    "name": "_lastChangedAt",
-                    "isArray": false,
-                    "type": "AWSTimestamp",
-                    "isRequired": true,
-                    "attributes": []
-                },
-                "_version": {
-                    "name": "_version",
-                    "isArray": false,
-                    "type": "Int",
-                    "isRequired": true,
-                    "attributes": []
                 },
                 "createdAt": {
                     "name": "createdAt",
                     "isArray": false,
                     "type": "AWSDateTime",
-                    "isRequired": true,
-                    "attributes": []
-                },
-                "description": {
-                    "name": "description",
-                    "isArray": false,
-                    "type": "String",
                     "isRequired": false,
-                    "attributes": []
-                },
-                "id": {
-                    "name": "id",
-                    "isArray": false,
-                    "type": "ID",
-                    "isRequired": true,
-                    "attributes": []
-                },
-                "name": {
-                    "name": "name",
-                    "isArray": false,
-                    "type": "String",
-                    "isRequired": true,
-                    "attributes": []
+                    "attributes": [],
+                    "isReadOnly": true
                 },
                 "updatedAt": {
                     "name": "updatedAt",
                     "isArray": false,
                     "type": "AWSDateTime",
-                    "isRequired": true,
-                    "attributes": []
-                }
-            }
-        },
-        "StudioConnection": {
-            "name": "StudioConnection",
-            "fields": {
-                "items": {
-                    "name": "items",
-                    "isArray": true,
-                    "type": {
-                        "nonModel": "Studio"
-                    },
                     "isRequired": false,
                     "attributes": [],
-                    "isArrayNullable": true
-                },
-                "nextToken": {
-                    "name": "nextToken",
-                    "isArray": false,
-                    "type": "String",
-                    "isRequired": false,
-                    "attributes": []
+                    "isReadOnly": true
                 }
-            }
-        },
-        "ModelTodoConnection": {
-            "name": "ModelTodoConnection",
-            "fields": {
-                "items": {
-                    "name": "items",
-                    "isArray": true,
-                    "type": {
-                        "nonModel": "Todo"
-                    },
-                    "isRequired": false,
-                    "attributes": [],
-                    "isArrayNullable": true
-                },
-                "nextToken": {
-                    "name": "nextToken",
-                    "isArray": false,
-                    "type": "String",
-                    "isRequired": false,
-                    "attributes": []
-                },
-                "startedAt": {
-                    "name": "startedAt",
-                    "isArray": false,
-                    "type": "AWSTimestamp",
-                    "isRequired": false,
-                    "attributes": []
+            },
+            "syncable": true,
+            "pluralName": "StudioTables",
+            "attributes": [
+                {
+                    "type": "model",
+                    "properties": {}
                 }
-            }
+            ]
         }
     },
-    "version": "86b4ae57662cf4440c94367928605160"
+    "enums": {},
+    "nonModels": {},
+    "version": "3794dcc9e70d1ebcc8a209cc887da812"
 };
