@@ -12,7 +12,7 @@ export type ButtonObjType = {
 };
 
 type Action = {
-  type: "input" | "radio" | "select" | "check" | "uncheck";
+  type: "input" | "radio" | "select" | "check" | "uncheck" | "reset";
   aug: string;
 };
 
@@ -48,6 +48,9 @@ const SearchForm = (props: Props) => {
       case "uncheck":
         newObj = { ...obj, check: obj.check.filter((e) => e !== action.aug) };
         return newObj;
+      case "reset":
+        newObj = { input: "", radio: "", select: "", check: [] };
+        return newObj;
       default:
         return obj;
     }
@@ -70,9 +73,16 @@ const SearchForm = (props: Props) => {
       if (isChecked) dispatch({ type: "uncheck", aug: event.target.value });
       else dispatch({ type: "check", aug: event.target.value });
     };
+  const handleReset = (event: React.MouseEvent<HTMLButtonElement>) => {
+    console.log("reset");
+    dispatch({ type: "reset", aug: "" });
+    console.log(obj);
+  };
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    props.subFunc({ filter: { group: { eq: obj.select } } });
+    console.log(obj);
+    if (obj.select) props.subFunc({ filter: { group: { eq: obj.select } } });
+    else props.subFunc({});
   };
 
   const inputForm = <InputForm name="input" onChange={handleInput} />;
@@ -114,6 +124,9 @@ const SearchForm = (props: Props) => {
               onSubmit={handleSubmit}
               className="max-w-sm p-10 m-auto bg-white bg-opacity-25 rounded shadow-xl"
             >
+              <button type="button" onClick={handleReset}>
+                Filter Reset
+              </button>
               {selectBox}
               <SubmitButton text="submit" />
             </form>
