@@ -124,7 +124,11 @@ const SearchForm = (props: Props) => {
               onSubmit={handleSubmit}
               className="max-w-sm p-10 m-auto bg-white bg-opacity-25 rounded shadow-xl"
             >
-              <button type="button" onClick={handleReset}>
+              <button
+                type="button"
+                onClick={handleReset}
+                className="flex-shrink-0 px-4 py-2 text-base font-semibold text-white bg-purple-600 rounded-lg shadow-md hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-offset-2 focus:ring-offset-purple-200"
+              >
                 Filter Reset
               </button>
               {selectBox}
