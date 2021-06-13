@@ -13,10 +13,10 @@ type CheckBoxProps = {
   list: string[];
   name: string;
   id?: string;
+  onChange: (isChecked: boolean) => React.ChangeEventHandler<HTMLInputElement>;
 };
 
 export const RadioBlock = (props: RadioBlockProps) => {
-  const [display, setDisplay] = useState(false);
   return (
     <div className="text-left flex flex-wrap">
       <fieldset>
@@ -40,7 +40,6 @@ export const RadioBlock = (props: RadioBlockProps) => {
 };
 
 export const CheckBox = (props: CheckBoxProps) => {
-  const [display, setDisplay] = useState(false);
   return (
     <div id={props.id} className="text-left">
       <fieldset>
@@ -52,6 +51,7 @@ export const CheckBox = (props: CheckBoxProps) => {
                 name={props.name}
                 label={label}
                 key={props.name + i}
+                onChange={props.onChange}
               />
             );
           })}

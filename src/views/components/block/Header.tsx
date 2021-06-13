@@ -11,24 +11,23 @@ function Header() {
         </div>
         <div className="flex items-center">
           <nav className="font-sen text-gray-800 dark:text-white uppercase text-lg lg:flex items-center hidden">
-            <Link to="/">
-              <a
-                href="#"
-                className="py-2 px-6 flex text-indigo-500 border-b-2 border-indigo-500"
-              >
-                ホーム
-              </a>
+            <Link
+              to="/"
+              className="py-2 px-6 flex text-indigo-500 border-b-2 border-indigo-500"
+            >
+              ホーム
             </Link>
-            <a href="#" className="py-2 px-6 flex hover:text-indigo-500">
+            <span className="py-2 px-6 flex hover:text-indigo-500">
               スタジオ検索
-            </a>
-            <a href="#" className="py-2 px-6 flex hover:text-indigo-500">
+            </span>
+            <span className="py-2 px-6 flex hover:text-indigo-500">
               バンドメンバー募集
-            </a>
-            <Link to="/contact">
-              <a className="py-2 px-6 flex hover:text-indigo-500">
-                お問い合わせ
-              </a>
+            </span>
+            <Link
+              to="/contact"
+              className="py-2 px-6 flex hover:text-indigo-500"
+            >
+              お問い合わせ
             </Link>
           </nav>
           <button className="lg:hidden flex flex-col ml-4">

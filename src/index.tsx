@@ -1,11 +1,11 @@
 import React, { StrictMode } from "react";
-import { render } from "react-dom";
+import ReactDOM, { render } from "react-dom";
 import { ThemeProvider } from "@material-ui/core/styles";
 import App from "./views/pages/App";
 import theme from "./style/theme";
 import reportWebVitals from "./reportWebVitals";
 import Amplify from "aws-amplify";
-import awsmobile from "aws-exports";
+import awsmobile from "./aws-exports";
 Amplify.configure(awsmobile);
 
 render(

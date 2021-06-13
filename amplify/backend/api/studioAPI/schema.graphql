@@ -1,0 +1,13 @@
+type StudioTable @model {
+  address: String
+  erea: [String]
+  fee: String
+  group: String
+  id: ID!
+  name: String
+  number_rooms: String
+  phone: String
+  station: String
+  time: String
+  url: String
+}

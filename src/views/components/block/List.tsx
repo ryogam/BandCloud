@@ -1,13 +1,7 @@
 import React, { useState } from "react";
 import { PageTransitionButton } from "views/components/atoms/Button";
 import { FormWithButton } from "views/components/block/Form";
-
-type JsonObjType = {
-  group: string;
-  name: string;
-  phone: string;
-  address: string;
-};
+import { JsonObjType } from "api/GetRequestApi";
 
 type ListProps = {
   jsonList: JsonObjType[];
@@ -45,10 +39,10 @@ const JsonObjs = (props: JsonObjType) => {
 export const List = (props: ListProps) => {
   const [currentPage, setCurrentPage] = useState(0);
 
-  const jsonPerPage = 4;
+  const jsonPerPage = 10;
   const pageNum =
     Math.floor(props.jsonList.length / jsonPerPage) +
-    Math.min(props.jsonList.length, 1);
+    Math.min(props.jsonList.length % jsonPerPage, 1);
   const range = (start: number, stop: number, step: number) =>
     Array.from(
       { length: (stop - start) / step + 1 },
@@ -56,12 +50,17 @@ export const List = (props: ListProps) => {
     );
   const pageList = range(0, pageNum - 1, 1);
 
+  /*
+  const filter = (
+    <div className="text-end">
+      <FormWithButton buttonLabel="Filter" />
+    </div>
+  );
+  */
+
   const listHead = (
     <div className="flex flex-row mb-1 sm:mb-0 justify-between w-full">
       <span className="text-2xl leading-tight">Studio List</span>
-      <div className="text-end">
-        <FormWithButton buttonLabel="Filter" />
-      </div>
     </div>
   );
 
@@ -115,6 +114,7 @@ export const List = (props: ListProps) => {
               phone={json.phone}
               address={json.address}
               key={props.name + i}
+              id={json.id}
             />
           );
         })}
@@ -149,11 +149,15 @@ export const List = (props: ListProps) => {
                 </svg>
               </button>
               {pageList.map((num, i) => {
+                let isCurrentPageNum = "text-indigo-500";
+                if (num === currentPage)
+                  isCurrentPageNum = "text-green-600 font-bold";
                 return (
                   <PageTransitionButton
                     num={num}
                     onChange={() => setCurrentPage(num)}
                     key={i}
+                    className={isCurrentPageNum}
                   />
                 );
               })}
